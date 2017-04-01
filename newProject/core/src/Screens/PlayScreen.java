@@ -12,7 +12,7 @@ public class PlayScreen implements Screen {
     private OrthographicCamera gamecam;
 	public PlayScreen(MyNewProject game) {
 		this.game = game;
-		texture = new Texture("badlogic.jpg");
+	//	texture = new Texture("badlogic.jpg");
 		
 	}
 	
